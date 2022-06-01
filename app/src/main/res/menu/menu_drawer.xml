@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:shoIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/profilemenue"
+            android:icon="@drawable/person_24"
+            android:title="Profile" />
+        <item
+            android:id="@+id/changepasswordmenue"
+            android:icon="@drawable/location_on_24"
+            android:title="Change Password" />
+        <item
+            android:id="@+id/aboutmenu"
+            android:icon="@drawable/about_help_outline_24"
+            android:title="About" />
+        <item
+            android:id="@+id/emergencynumbermenu"
+            android:icon="@drawable/ic_baseline_contact_phone_24"
+            android:title="Emergency Number" />
+        <item
+            android:id="@+id/logoutmenu"
+            android:icon="@drawable/logout_add_to_home_screen_24"
+            android:title="Logout" />
+
+    </group>
+</menu>

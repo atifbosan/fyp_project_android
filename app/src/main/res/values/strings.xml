@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">VLC RTV Tracking System</string>
+    <string-array name="Spinner_item">
+        <item>Select Status</item>
+        <item>User</item>
+        <item>Driver</item>
+    </string-array>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string-array name="Spinner_item2">
+        <item>Select Status</item>
+        <item>User</item>
+        <item>Driver</item>
+    </string-array>
+</resources>
